@@ -151,10 +151,11 @@ The screen contains:
 This screen focuses on clean UI design, proper layout, and modular Flutter widgets.
 No backend or real AI integration is implemented, as the assignment is UI-focused.
 
-Author
 
+#Author
 Gokul A
 Flutter Developer (Fresher)
+
 
 
 
