@@ -101,18 +101,16 @@ assets/
   build/app/outputs/flutter-apk/app-debug.apk
 ```
 
----
+## Security Considerations
 
-##Security Considerations
+*No API keys used
 
-No API keys used
+*No sensitive data stored
 
-No sensitive data stored
-
-No network calls implemented
+*No network calls implemented
 
 
-##AI Tools Used
+## AI Tools Used
 
 AI tools were used to support productivity and clarity during development, rather than replacing understanding or implementation.
 
@@ -127,7 +125,7 @@ AI tools were used to support productivity and clarity during development, rathe
 All coding, debugging, and final implementation decisions were performed manually to ensure correctness, learning, and adherence to best practices.
 
 
-##Notes
+## Notes
 
 This is a single-screen UI assignment
 
@@ -156,6 +154,7 @@ Author
 
 Gokul A
 Flutter Developer (Fresher)
+
 
 
 
