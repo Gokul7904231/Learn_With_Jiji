@@ -103,11 +103,11 @@ assets/
 
 ## Security Considerations
 
-*No API keys used
+-No API keys used
 
-*No sensitive data stored
+-No sensitive data stored
 
-*No network calls implemented
+-No network calls implemented
 
 
 ## AI Tools Used
@@ -127,11 +127,12 @@ All coding, debugging, and final implementation decisions were performed manuall
 
 ## Notes
 
-This is a single-screen UI assignment
+-This is a single-screen UI assignment
 
-Designed to match the provided reference concept
+-Designed to match the provided reference concept
 
-Emphasis on clarity, structure, and Flutter best practices
+-Emphasis on clarity, structure, and Flutter best practices
+
 
 <img width="271" height="592" alt="image" src="https://github.com/user-attachments/assets/12b1a70d-2434-4a1c-8586-79a42ab25dea" />
 
@@ -154,6 +155,7 @@ Author
 
 Gokul A
 Flutter Developer (Fresher)
+
 
 
 
