@@ -43,13 +43,21 @@ The app visually represents how an AI assistant could help users understand conc
 
 lib/
 ├─ main.dart
+
 ├─ screens/
+
 │ └─ jiji_home_screen.dart
+
 ├─ widgets/
+
 │ ├─ search_bar_widget.dart
+
 │ ├─ response_card.dart
+
 │ └─ resource_tile.dart
+
 assets/
+
 └─ jiji_avatar.png
 
 ---
@@ -144,5 +152,6 @@ Author
 
 Gokul A
 Flutter Developer (Fresher)
+
 
 
