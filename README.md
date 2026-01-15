@@ -101,6 +101,8 @@ assets/
   build/app/outputs/flutter-apk/app-debug.apk
 ```
 
+---
+
 ##Security Considerations
 
 No API keys used
@@ -108,6 +110,7 @@ No API keys used
 No sensitive data stored
 
 No network calls implemented
+
 
 ##AI Tools Used
 
@@ -122,6 +125,7 @@ AI tools were used to support productivity and clarity during development, rathe
 4. Documentation assistance: ChatGPT / Notion AI were used to help structure and clearly articulate the README and project explanation.
 
 All coding, debugging, and final implementation decisions were performed manually to ensure correctness, learning, and adherence to best practices.
+
 
 ##Notes
 
@@ -152,6 +156,7 @@ Author
 
 Gokul A
 Flutter Developer (Fresher)
+
 
 
 
